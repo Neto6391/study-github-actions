@@ -5,8 +5,8 @@
 
 Este repositório foi criado com o objetivo de explorar, aprender e experimentar as funcionalidades do GitHub Actions. Através deste projeto, pretendemos adquirir conhecimento sobre como automatizar fluxos de trabalho, executar testes automatizados, realizar deploys contínuos, entre outras práticas DevOps, utilizando GitHub Actions com o próposito do módulo 02 - Versionamento e Arquivos de Marcação.
 
-Aluno: José Rodrigues de Oliveira Neto
-Id: 1182027
+- Aluno: José Rodrigues de Oliveira Neto
+- Id: 1182027
 
 # Próposito
 
